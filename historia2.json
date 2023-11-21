@@ -218,7 +218,7 @@
         }
       ],
       "cuadro_de_dialogo": "https://raw.githubusercontent.com/BautistaGraffBohn/HistoriaJson/main/imagenes/fondos/fondonuevo2.png",
-      "texto": "El plan es el siguiente, en 3 días estarían viajando para Washington. El único requisito es que deben dejar todo para siempre, su familia, amigos, casa y nunca más volver a verlos.",
+      "texto": "El plan es el siguiente, en 3 días estarían viajando para Washington. Deben dejar todo para siempre, su familia, amigos, casa y nunca más volver a verlos.",
       "nombre_del_personaje": "Mario",
       "siguiente": 9,
       "sonido_escena": "",
@@ -557,11 +557,11 @@
       "nombre_del_personaje": "",
       "decisiones": [
         {
-          "texto_decision": "Lalo elige quedarse peleándola en el Liverfull y Bauti es electo DT.",
+          "texto_decision": "Lalo elige quedarse peleándola en el Liverfull y Bauti su DT.",
           "escena_siguiente": 24
         },
         {
-          "texto_decision": "Eligen seguir el sueño de Bauti de ser dj de Buzios y Lalo será su Mánager.",
+          "texto_decision": "Eligen seguir el sueño de Bauti de ser dj en Brasil.",
           "escena_siguiente": 25
         },
         {
