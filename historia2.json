@@ -91,7 +91,7 @@
       "personajes": [
         {
           "nombre": "Mati",
-          "imagen": "https://raw.githubusercontent.com/BautistaGraffBohn/HistoriaJson/main/imagenes/personajes/mati_hablando.png",
+          "imagen": "https://raw.githubusercontent.com/BautistaGraffBohn/HistoriaJson/main/imagenes/personajes/matihablando.png",
           "color_de_texto": "#FF5733"
         },
         {
